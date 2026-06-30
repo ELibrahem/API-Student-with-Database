@@ -1,0 +1,17 @@
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\bin\Debug\net10.0\StudentApiClient.exe
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\bin\Debug\net10.0\StudentApiClient.deps.json
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\bin\Debug\net10.0\StudentApiClient.runtimeconfig.json
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\bin\Debug\net10.0\StudentApiClient.dll
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\bin\Debug\net10.0\StudentApiClient.pdb
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\obj\Debug\net10.0\StudentApiClient.csproj.AssemblyReference.cache
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\obj\Debug\net10.0\StudentApiClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\obj\Debug\net10.0\StudentApiClient.AssemblyInfoInputs.cache
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\obj\Debug\net10.0\StudentApiClient.AssemblyInfo.cs
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\obj\Debug\net10.0\StudentApiClient.csproj.CoreCompileInputs.cache
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\obj\Debug\net10.0\StudentA.969186DA.Up2Date
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\obj\Debug\net10.0\StudentApiClient.dll
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\obj\Debug\net10.0\refint\StudentApiClient.dll
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\obj\Debug\net10.0\StudentApiClient.pdb
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\obj\Debug\net10.0\StudentApiClient.genruntimeconfig.cache
+D:\source\RESTful API\Restful\StudentApi with DB\02 StudentApiClient with DB\StudentApiClient\obj\Debug\net10.0\ref\StudentApiClient.dll
